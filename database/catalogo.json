@@ -1,0 +1,7 @@
+{
+"filmes": [
+    {"titulo": "O senhor dos Aneis I", "ano": 2002},
+    {"titulo": "O senhor dos Aneis II", "ano": 2003},
+    {"titulo": "O senhor dos Aneis III", "ano": 2004}   
+]
+}
